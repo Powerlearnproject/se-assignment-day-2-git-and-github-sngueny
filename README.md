@@ -12,7 +12,7 @@ Version control helps maintain project integrity by preventing accidental data l
 To set up a new repository on GitHub:
 
 Log in to GitHub: Sign in to your GitHub account.
-Create a new repository: Click the "+" icon in the top right corner and select "New repository."
+-Create a new repository: Click the "+" icon in the top right corner and select "New repository."
 Enter repository details: Provide a name, an optional description, and choose whether it will be public or private.
 Initialize with a README (optional): You can add a README file to describe your project.
 Add a .gitignore file (optional): This file specifies which files should be ignored by Git.
